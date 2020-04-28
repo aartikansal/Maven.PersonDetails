@@ -9,6 +9,7 @@ public class PersonHandler {
     private final Person[] personArray;
 
     public PersonHandler(Person[] personArray) {
+
         this.personArray = personArray;
     }
 
@@ -63,7 +64,7 @@ public class PersonHandler {
 
     public String forEachLoop() {
         String result = "";
-        String currentPerson="";
+       // String currentPerson = "";
 
         // identify array's type
         // identify array's variable-name
