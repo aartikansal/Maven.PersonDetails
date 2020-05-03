@@ -82,7 +82,6 @@ public class PersonHandler {
     }
 
 
-    public Person[] getPersonArray() {
-        return personArray;
-    }
+
+    
 }
